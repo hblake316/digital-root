@@ -25,5 +25,6 @@ module.exports = {
     '@typescript-eslint/semi': 0,
     'react/jsx-fragments': 0,
     'no-console': 0,
+    'import/prefer-default-export': 0,
   },
 }

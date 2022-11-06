@@ -10,7 +10,7 @@ describe('App', () => {
       screen.getByRole('heading', {
         level: 1,
       })
-    ).toHaveTextContent('digital-root')
+    ).toHaveTextContent('Digital Root')
   })
   it('renders text field', () => {
     render(<WrappedApp />)
